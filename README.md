@@ -6,8 +6,6 @@
 
 * 只测试自用脚本，其他大部分脚本未测试可用性.
 
-* 再一次感谢nzw9314大佬的脚本，次备份作为自用，如有侵权，请通知删帖.
-
 ### 全局配置：
 
 * [QuantumultX.conf](https://raw.githubusercontent.com/nzw9314/QuantumultX/master/QuantumultX.conf)
